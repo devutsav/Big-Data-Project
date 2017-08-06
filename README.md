@@ -5,4 +5,4 @@ This was an attempt to find the probability of a customer accepting an offer.
 We have used Naive Bayes' approach.
 
 **More optimisation needed, will love to collaborate**
-**Would like to apply Unsupervised ML for better results**
+
