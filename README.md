@@ -1,8 +1,8 @@
 # Big-Data-Project
-Targeted Marketing using Big Data (Summer Training) 
-1 million data were given for analysis. 
+Marketing analysis using Big Data (Summer Training).
+1 million data of customers were given for analysis. 
 This was an attempt to find the probability of a customer accepting an offer. 
-We have used Naive Bayes' approach.
+We have used Naive Bayes' classifier.
 
 **Team Members:**
 Utsav Das (WBUT),
