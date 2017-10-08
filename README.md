@@ -13,7 +13,7 @@ Project Members :
 	2. Utsav Das
 		College : MAKAUT, Depertment : IT
 	3. Anuska Garai
-		College : CIEM, Department : CSE
+		College : CIEM, Department : IT
 	4. Sayan Roy
 		College : BPPIMT, Department : ECE 
 	5. Ritam Ghosh 
