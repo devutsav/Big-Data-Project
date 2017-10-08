@@ -1,13 +1,13 @@
 # Big-Data-Project
 #Summer Training 2017
 
-Project Title : Targeted Marketing
-Project Description : Using a dataset of 1 million records consisting of five fields i.e. age,income category,sex,offer provided and response of the customer, we determined the most probable response to an offer in between acceptence and decline of a customer when provided with the customer record.  
-Tools Used : Apache Hadoop
-Computational Model Used : Supervised Learning
-Mathematical Model Used : Naive Bayes
+..*Project Title : Targeted Marketing
+..*Project Description : Using a dataset of 1 million records consisting of five fields i.e. age,income category,sex,offer provided and response of the customer, we determined the most probable response to an offer in between acceptence and decline of a customer when provided with the customer record.  
+..*Tools Used : Apache Hadoop
+..*Computational Model Used : Supervised Learning
+..*Mathematical Model Used : Naive Bayes
 
-Project Members :
+..*Project Members :
 	1. Sumitra Chowdhury
 		College : MAKAUT, Depertment : CSE
 	2. Utsav Das
