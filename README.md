@@ -1,4 +1,4 @@
-# Big-Data-Project
+# Big Data Project
 ## Summer Training 2017
 
 * **Project Title** : Targeted Marketing
