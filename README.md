@@ -7,12 +7,12 @@
 * **Computational Model Used** : Supervised Learning
 * **Mathematical Model Used** : Naive Bayes
 * **Project Members** :
-    | Name | College | Stream  |
-    | :---: |:---:| :---: |
-    | Sumitra Chowdhury | MAKAUT | CSE |
-    | Utsav Das | MAKAUT | IT |
-    | Anuska Garai | CIEM | IT |
-    | Sayan Roy | BPPIMT |  ECE |
-    | Pritam Ghosh | BPPIMT | ECE |
+     Name | College | Stream  
+     :---: |:---:| :---: 
+     Sumitra Chowdhury | MAKAUT | CSE 
+     Utsav Das | MAKAUT | IT 
+     Anuska Garai | CIEM | IT 
+     Sayan Roy | BPPIMT |  ECE 
+     Pritam Ghosh | BPPIMT | ECE 
 
 	
