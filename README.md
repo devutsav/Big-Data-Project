@@ -7,6 +7,7 @@
 * **Computational Model Used** : Supervised Learning
 * **Mathematical Model Used** : Naive Bayes
 * **Project Members** :
+
      Name | College | Stream  
      :---: |:---:| :---: 
      Sumitra Chowdhury | MAKAUT | CSE 
