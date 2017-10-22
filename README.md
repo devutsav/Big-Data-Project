@@ -8,7 +8,8 @@ We have used Naive Bayes' classifier.
 Utsav Das (WBUT),
 Sumitro Chowdhury (WBUT),
 Anuska Garai (CIEM),
-Ritam Ghosh (BPPIMT)
+Ritam Ghosh (BPPIMT),
+Sayan Roy (BPPIMT)
 
 **(More optimisation needed)**
 
