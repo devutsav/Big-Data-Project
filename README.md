@@ -4,7 +4,7 @@ Marketing analysis using Big Data.
 This was an attempt to find the probability of a customer accepting an offer. 
 We have used Naive Bayes' classifier.
 
-## Team Members:
+**Team Members** :
 
      Name | College | Stream  
      :---: |:---:| :---: 
