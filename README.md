@@ -5,6 +5,7 @@ This was an attempt to find the probability of a customer accepting an offer.
 We have used Naive Bayes' classifier.
 
 **Team Members:**
+
      Name | College | Stream | Role |
      :---: |:---:| :---: | :---:
      Utsav Das | MAKAUT | IT | Coding (MapReduce, Pig) |
