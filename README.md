@@ -6,13 +6,13 @@ We have used Naive Bayes' classifier.
 
 ## Team Members:
 
-     | Name | College | Stream 
-     |---|---|---
-     | Utsav Das | MAKAUT | IT 
-     | Sumitra Chowdhury | MAKAUT | CSE 
-     | Anuska Garai | CIEM | IT 
-     | Pritam Ghosh | BPPIMT | ECE  
-     | Sayan Roy | BPPIMT |  ECE 
+     Name | College | Stream  
+     :---: |:---:| :---: 
+     Utsav Das | MAKAUT | IT
+     Sumitra Chowdhury | MAKAUT | CSE 
+     Anuska Garai | CIEM | IT 
+     Sayan Roy | BPPIMT |  ECE 
+     Pritam Ghosh | BPPIMT | ECE 
      
 
 
