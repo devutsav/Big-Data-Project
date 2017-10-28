@@ -6,13 +6,13 @@ We have used Naive Bayes' classifier.
 
 ## Team Members:
 
- | Name | College | Stream | Role |
-     |---|---|---|---|
-     | Utsav Das | MAKAUT | IT | Coding (MapReduce, Pig) |
-     | Sumitra Chowdhury | MAKAUT | CSE | Coding (MapReduce, Pig) |
-     | Anuska Garai | CIEM | IT | Coding (MapReduce) |
-     | Pritam Ghosh | BPPIMT | ECE |  Documentation |
-     | Sayan Roy | BPPIMT |  ECE | Tester |
+ | Name | College | Stream | 
+     |---|---|---|
+     | Utsav Das | MAKAUT | IT | 
+     | Sumitra Chowdhury | MAKAUT | CSE |
+     | Anuska Garai | CIEM | IT | 
+     | Pritam Ghosh | BPPIMT | ECE | 
+     | Sayan Roy | BPPIMT |  ECE | 
      
 
 
